@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608573003 source:c:\users\bartek\desktop\programy w c\puntkty_przeciecia_okregow\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
